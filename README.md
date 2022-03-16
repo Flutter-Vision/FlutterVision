@@ -1,6 +1,6 @@
 
 <a href="https://fluttervision.com"><p align="center">
-<img height=200 src="https://user-images.githubusercontent.com/49681380/158651250-98aa0182-d4ff-4076-8dbf-0158698ec5b6.png"/>
+<img height=250 src="https://user-images.githubusercontent.com/49681380/158651250-98aa0182-d4ff-4076-8dbf-0158698ec5b6.png"/>
 
 </p></a>
 <p align="center">
@@ -29,5 +29,3 @@
 3. Identify bugs/features to help us improve our project
 4. Then, in the end, feel free to open a [issue](https://github.com/Flutter-Vision/FlutterVision/issues) with anything that you want.
 > You can also, of course, open a pull request to improve or translate our readme to engage the most people as possible 😄
-
----
