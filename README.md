@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/SabrinaSioli"><img src="https://avatars.githubusercontent.com/u/26391253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sabrina Sioli</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/issues?q=author%3ASabrinaSioli" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.totalcross.com"><img src="https://avatars.githubusercontent.com/u/3296036?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bruno Muniz</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/issues?q=author%3Abrunoamuniz" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/reness0"><img src="https://avatars.githubusercontent.com/u/49681380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renê Júnior</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=reness0" title="Code">💻</a> <a href="#maintenance-reness0" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/WixeI"><img src="https://avatars.githubusercontent.com/u/47463035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Martins</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=WixeI" title="Code">💻</a> <a href="#maintenance-WixeI" title="Maintenance">🚧</a></td>
   </tr>
 </table>
