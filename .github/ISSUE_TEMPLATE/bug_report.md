@@ -19,10 +19,8 @@ assignees: ''
 ## **Describe the bug**
 A clear and concise description of what the bug is.
 
-## **Figma keys** 
-- Figma token: 
-- Project key: 
-- Project url: 
+## **If you don't mind, please provide a screenshot or the Figma url** 
+
 
 ## **To Reproduce**
 Steps to reproduce the behavior:
