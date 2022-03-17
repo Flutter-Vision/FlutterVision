@@ -22,6 +22,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "reness0",
+      "name": "Renê Júnior",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49681380?v=4",
+      "profile": "https://github.com/reness0",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
