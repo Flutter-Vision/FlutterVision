@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <a href="https://fluttervision.com"><p align="center">
 <img height=250 src="https://user-images.githubusercontent.com/49681380/158651250-98aa0182-d4ff-4076-8dbf-0158698ec5b6.png"/>
@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/SabrinaSioli"><img src="https://avatars.githubusercontent.com/u/26391253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sabrina Sioli</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/issues?q=author%3ASabrinaSioli" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.totalcross.com"><img src="https://avatars.githubusercontent.com/u/3296036?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bruno Muniz</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/issues?q=author%3Abrunoamuniz" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/WixeI"><img src="https://avatars.githubusercontent.com/u/47463035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Martins</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=WixeI" title="Code">💻</a> <a href="#maintenance-WixeI" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
