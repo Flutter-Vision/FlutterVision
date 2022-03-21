@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "reness0",
+      "name": "Renê Júnior",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49681380?v=4",
+      "profile": "https://github.com/reness0",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FlutterVision",
+  "projectOwner": "Flutter-Vision",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
