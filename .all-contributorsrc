@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "brunoamuniz",
+      "name": "Bruno Muniz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3296036?v=4",
+      "profile": "http://www.totalcross.com",
+      "contributions": [
+        "bug",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FlutterVision",
+  "projectOwner": "Flutter-Vision",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
