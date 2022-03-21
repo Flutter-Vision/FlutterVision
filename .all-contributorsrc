@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "WixeI",
+      "name": "Paulo Martins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47463035?v=4",
+      "profile": "https://github.com/WixeI",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+      }
+{
       "login": "reness0",
       "name": "Renê Júnior",
       "avatar_url": "https://avatars.githubusercontent.com/u/49681380?v=4",
