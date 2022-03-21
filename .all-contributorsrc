@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SabrinaSioli",
+      "name": "Sabrina Sioli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26391253?v=4",
+      "profile": "https://github.com/SabrinaSioli",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FlutterVision",
+  "projectOwner": "Flutter-Vision",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
