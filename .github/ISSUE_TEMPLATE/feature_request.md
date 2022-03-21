@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE] Implement the widget AppBar"
-labels: feature
+labels: New Feature
 assignees: ''
 
 ---
