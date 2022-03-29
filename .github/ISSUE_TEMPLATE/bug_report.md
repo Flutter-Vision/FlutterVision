@@ -1,20 +1,12 @@
 ---
 name: Bug report
-about: Help us to helpyou as a Flutter developer
-title: "[BUG] The alignment is wrong"
+about: Help us to help you as a Flutter developer
 labels: bug
 assignees: ''
 
 ---
 
----
-name: Bug report
-about: Help us to help you as a Flutter Developer, if you find any bug, write it down.
-title: ''
-labels: ''
-assignees: ''
 
----
 
 ## **Describe the bug**
 A clear and concise description of what the bug is.
