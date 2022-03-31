@@ -42,8 +42,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+   <td align="center"><a href="https://github.com/mateuslimax22"><img src="https://avatars.githubusercontent.com/u/38704964?v=4" width="100px;" alt=""/><br /><sub><b>Mateus Lima</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=mateuslimax22" title="Code">💻</a> <a href="#maintenance-mateuslimax22" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/pattrickx"><img src="https://avatars.githubusercontent.com/u/32752004?v=4" width="100px;" alt=""/><br /><sub><b>Patrick Martins</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=pattrickx" title="Code">💻</a> <a href="#maintenance-pattrickx" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/WixeI"><img src="https://avatars.githubusercontent.com/u/47463035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Martins</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=WixeI" title="Code">💻</a> <a href="#maintenance-WixeI" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/reness0"><img src="https://avatars.githubusercontent.com/u/49681380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renê Júnior</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=reness0" title="Code">💻</a> <a href="#maintenance-reness0" title="Maintenance">🚧</a></td>
+<td align="center"><a href="https://github.com/SabrinaSioli"><img src="https://avatars.githubusercontent.com/u/26391253?v=4" width="100px;" alt=""/><br /><sub><b>Sabrina Sioli</b></sub></a><br /><a href="https://github.com/Flutter-Vision/FlutterVision/commits?author=SabrinaSioli" title="Code">💻</a> <a href="#maintenance-SabrinaSioli" title="Maintenance">🚧</a></td>
+    
   </tr>
 </table>
 
